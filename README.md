@@ -3,7 +3,7 @@
 Folgende Vorgaben gelten:
 -	Sie dürfen für ihre eignen Implementationen keine fremden Libraries zur Hilfe nehmen.
 -	Verwenden Sie die Struktur und Helper-Funktionen der bereits eigeführten CUDA-Beispiele.
--	Verwenden Sie folgendes Projekt als Grundlage: https://classroom.github.com/a/o3sPl19V
+-	Verwenden Sie folgendes Projekt als Grundlage: https://classroom.github.com/a/GW7FTIwX
 -	Sie können die Code Vorlage beliebig Ändern, sofern der Kern der Berechnung noch gleichbleibt. 
 
 ## Bewertung
